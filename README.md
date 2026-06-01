@@ -1,2 +1,7 @@
-# demo-escribania-vera
-Demo web para Escribanía Vera — diseñada por eterlab.
+# Escribanía Vera
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
